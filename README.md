@@ -3,7 +3,3 @@
 1
 2
 1
-1
-:sc
-wdwef
-eqwasf
